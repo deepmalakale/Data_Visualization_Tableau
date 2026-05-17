@@ -1,5 +1,8 @@
 **Shopping Behaviour Analysis: Tablue**
 
+Project Tablue Public Link: https://public.tableau.com/views/ShoppingBehaviourAnalysis_17706361812850/ShoppingBehaviourAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+
 
 Problem Statement
 In the context of retail customer analytics, how can the utilization of Tableau Public facilitate a comprehensive examination of customer shopping behavior and purchasing trends?
